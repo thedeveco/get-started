@@ -4,66 +4,32 @@ The devEco Developer Ecosystem is an inclusive, developer-centric community wher
 
 Table of Contents
 * [Getting Started](#getting-started)
-   * [Meet the devCore](#meet-the-devcore)
-   * [Interested in Joining](#interested-in-joining)
-   * [New Members](#new-members)
-      * [We're here to help](#were-here-to-help)
-      * [Introduce yourself!](#introduce-yourself)
-   * [Big Picture](#big-picture)
-      * [How to Use This Repo](#how-to-use-this-repo)
-      * [How Can I Help?](#how-can-i-help)
-      * [Background](#background)
-      * [Governance Model](/governance.md)
-   * [Name and logo usage](#name-and-logo-usage)
+* [Meet the devCore](#meet-the-devcore)
 
 ## Meet the devCore
 
-- <a href="https://www.linkedin.com/in/fixxxxxxer/" target="_blank">Robert Wolff</a>
-- [Austin Blackstone]()
-- [Dale Weber]()
-- [Bruno Verachten]()
-- [Sergio Caprile]()
-- [Edward Vielmetti]()
-- [Marcin Juszkiewicz]()
-- [Konstantinos Margaritis]()
-- [Marc Pous]()
-- [David Groom]()
-- [Arron Williams]()
-- [Jon Nettleton]()
-- [Sheldon McGee]()
-- [Darragh Grealish]()
-- [Sahaj Sarup]()
-- [Alie Gonzalez-Guyon]()
+- [Robert Wolff](https://www.linkedin.com/in/fixxxxxxer/)
+- [Austin Blackstone](https://www.linkedin.com/in/austinblackstone/)
+- [Dale Weber](https://www.linkedin.com/in/hybridrobotics/)
+- [Bruno Verachten](https://www.linkedin.com/in/poddingue/)
+- [Sergio Caprile](https://www.linkedin.com/in/sergio-r-caprile-056683207/)
+- [Edward Vielmetti](https://www.linkedin.com/in/edwardvielmetti/)
+- [Marcin Juszkiewicz](https://www.linkedin.com/in/marcinjuszkiewicz/)
+- [Konstantinos Margaritis](https://www.linkedin.com/in/konstantinosmargaritis/)
+- [Marc Pous](https://www.linkedin.com/in/marcpous/)
+- [David Groom](https://www.linkedin.com/in/davidjgroom/)
+- [Arron Williams](https://www.linkedin.com/in/aaron-don-williams/)
+- [Jon Nettleton](https://www.linkedin.com/in/jonathan-nettleton-205984a/)
+- [Sheldon McGee](https://www.linkedin.com/in/tooshel/)
+- [Darragh Grealish](https://www.linkedin.com/in/grealish/)
+- [Sahaj Sarup](https://www.linkedin.com/in/sahaj-sarup-5736a3b0/)
+- [Alie Gonzalez-Guyon](https://www.linkedin.com/in/agonzalez-cuzan/)
 
 ## Interested in Joining
 
 TBD
 
 ## New Members
-
-TBD
-
-### We're here to help
-
-TBD
-
-### Introduce yourself!
-
-TBD
-
-### Big Picture
-
-TBD
-
-### How to Use This Repo
-
-TBD
-
-### How Can I Help?
-
-TBD
-
-### Background
 
 TBD
 
